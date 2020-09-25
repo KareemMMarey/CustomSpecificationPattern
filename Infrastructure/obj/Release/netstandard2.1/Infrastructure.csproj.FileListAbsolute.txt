@@ -1,0 +1,16 @@
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\brands.json
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\delivery.json
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\products.json
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\types.json
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Infrastructure.deps.json
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Infrastructure.dll
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Infrastructure.pdb
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Core.dll
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\bin\Release\netstandard2.1\Core.pdb
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfo.cs
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CopyComplete
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\obj\Release\netstandard2.1\Infrastructure.dll
+H:\Years\1441-2020\I_Personal_Work\Hani_Work\Fahad-Comapny\ResearcherAssistant\Infrastructure\obj\Release\netstandard2.1\Infrastructure.pdb
